@@ -1,0 +1,12 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:marSanGal/health-check-frontend.git
+	branch = main
+[submodule "backend"]
+	path = backend
+	url = git@github.com:marSanGal/health-check-backend.git
+	branch = main
+[submodule "deployment"]
+	path = deployment
+	url = git@github.com:marSanGal/health-check-deployment.git
+	branch = main
